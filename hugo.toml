@@ -27,10 +27,6 @@ buildExpired = false
   hidemeta = false
   hideSummaryInList = false
 
-  [params.label]
-    icon = "/images/header.jpg"
-    iconHeight = 60
-
   [params.homeInfoParams]
     Title = "Hi"
     Content = "Welcome to my blog."
