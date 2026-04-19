@@ -27,14 +27,6 @@ buildExpired = false
   hidemeta = false
   hideSummaryInList = false
 
-  [params.homeInfoParams]
-    Title = "Hi"
-    Content = "Welcome to my blog."
-
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/iler"
-
 [taxonomies]
   tag = "tags"
   category = "categories"
