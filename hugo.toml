@@ -17,6 +17,7 @@ buildExpired = false
   description = "Ilari's blog"
   author = "Ilari"
   defaultTheme = "auto"
+  disableSpecial1stPost = true
   ShowReadingTime = true
   ShowWordCount = true
   ShowShareButtons = false
