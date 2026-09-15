@@ -1,6 +1,6 @@
-baseURL = "https://ilari.dev/"
+baseURL = "https://ilar.in/"
 languageCode = "en-us"
-title = "ilari.dev"
+title = "ilar.in"
 theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
@@ -13,7 +13,7 @@ buildExpired = false
 
 [params]
   env = "production"
-  title = "ilari.dev"
+  title = "ilar.in"
   description = "Ilari's blog"
   author = "Ilari"
   defaultTheme = "auto"
